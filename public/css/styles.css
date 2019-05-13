@@ -31,6 +31,10 @@ h1 {
     margin-bottom: 16px;
 }
 
+h4, p {
+  margin-top: 40px;
+}
+
 header a {
     color: #888888;
     margin-right: 16px;
